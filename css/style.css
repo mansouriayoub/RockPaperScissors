@@ -1,0 +1,31 @@
+body{
+	margin: 50px;
+	color: purple;
+	background-color: black;
+}
+
+button{
+	font-size: 120px;
+	margin: 20px;
+	color:  #ff0022;
+	border-color: #ff0022
+}
+
+#computerSelection {
+  width: 100%;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+#computerSelection .far {
+  font-size: 5rem;
+  color: blue;
+}
+#result {
+  font-family: 'Gruppo', cursive;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 4rem;
+  text-transform: uppercase;
+  font-weight: 900;
+}
