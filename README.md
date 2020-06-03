@@ -3,4 +3,4 @@ Rock Paper Scissors App to play with computer
 
 LIVE PREVIEW => https://mansouriayoub.github.io/rockpaperscissors
 
-PS: no score programmed yet!
+PS: no scoring programmed yet!
